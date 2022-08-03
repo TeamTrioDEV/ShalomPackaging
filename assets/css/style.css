@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  color: #3343a9;
+  color: #5d5e64;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -45,7 +45,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0e4b4e;
+  background: #494646;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -80,7 +80,7 @@ h6 {
 
 #topbar .contact-info i {
   font-style: normal;
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #topbar .contact-info i a,
@@ -95,7 +95,7 @@ h6 {
 }
 
 #topbar .contact-info i a:hover {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #topbar .social-links a {
@@ -107,7 +107,7 @@ h6 {
 }
 
 #topbar .social-links a:hover {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #topbar .social-links a:first-child {
@@ -134,11 +134,11 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: #0c2e8a;
+  color: #7b7e87;
 }
 
 #header #logo h1 a span {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #header #logo img {
@@ -211,7 +211,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 .navbar .dropdown ul {
@@ -245,7 +245,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 .navbar .dropdown:hover>ul {
@@ -281,7 +281,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0c2e8a;
+  color: #7b7e87;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -338,13 +338,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0c2e8a;
+  color: #7b7e87;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 .navbar-mobile .getstarted,
@@ -379,7 +379,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -413,14 +413,14 @@ h6 {
 }
 
 #hero .hero-content h2 {
-  color: #0c2e8a;
+  color: #7b7e87;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
 }
 
 #hero .hero-content h2 span {
-  color: #0e4b4e;
+  color: #494646;
   text-decoration: underline;
 }
 
@@ -445,23 +445,23 @@ h6 {
 }
 
 #hero .hero-content .btn-get-started {
-  background: #0c2e8a;
-  border: 2px solid #0c2e8a;
+  background: #7b7e87;
+  border: 2px solid #7b7e87;
 }
 
 #hero .hero-content .btn-get-started:hover {
   background: none;
-  color: #0c2e8a;
+  color: #7b7e87;
 }
 
 #hero .hero-content .btn-projects {
-  background: #0e4b4e;
-  border: 2px solid #0e4b4e;
+  background: #494646;
+  border: 2px solid #494646;
 }
 
 #hero .hero-content .btn-projects:hover {
   background: none;
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #hero .hero-slider {
@@ -505,7 +505,7 @@ section {
 
 .section-header h2 {
   font-size: 32px;
-  color: #0c2e8a;
+  color: #7b7e87;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -518,7 +518,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #0e4b4e;
+  background: #494646;
   bottom: 0;
   left: 0;
 }
@@ -610,7 +610,7 @@ section {
 }
 
 #about .content h2 {
-  color: #0c2e8a;
+  color: #7b7e87;
   font-weight: 700;
   font-size: 36px;
   font-family: "Raleway", sans-serif;
@@ -618,10 +618,10 @@ section {
 
 #about .content h3 {
   color: #555;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 18px;
   line-height: 26px;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 #about .content p {
@@ -635,7 +635,7 @@ section {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #about .content ul {
@@ -681,8 +681,8 @@ section {
 }
 
 #services .box .icon i:before {
-  background: #0c2e8a;
-  background: linear-gradient(45deg, #0e4b4e 0%, #a3ebd5 100%);
+  background: #7b7e87;
+  background: linear-gradient(45deg, #494646 0%, #a3ebd5 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -751,11 +751,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0e4b4e;
+  border: 1px solid #494646;
 }
 
 #clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0e4b4e;
+  background-color: #494646;
 }
 
 /* Our Portfolio Section
@@ -790,7 +790,7 @@ section {
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #0e4b4e;
+  background: #494646;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -816,7 +816,7 @@ section {
   bottom: -50px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: #0e4b4e;
+  background: #494646;
   padding: 15px 20px;
 }
 
@@ -881,11 +881,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0e4b4e;
+  border: 1px solid #494646;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0e4b4e;
+  background-color: #494646;
 }
 
 .portfolio-details .portfolio-info {
@@ -1001,11 +1001,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0e4b4e;
+  border: 1px solid #494646;
 }
 
 #testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0e4b4e;
+  background-color: #494646;
 }
 
 /* Call To Action Section
@@ -1049,8 +1049,8 @@ section {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #0e4b4e;
-  border: 3px solid #0e4b4e;
+  background: #494646;
+  border: 3px solid #494646;
 }
 
 /* Our Team Section
@@ -1075,7 +1075,7 @@ section {
 }
 
 #team .member .details {
-  background: #0e4b4e;
+  background: #494646;
   color: #fff;
   padding: 15px;
   border-radius: 0 0 3px 3px;
@@ -1121,7 +1121,7 @@ section {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #contact .contact-info address,
@@ -1143,7 +1143,7 @@ section {
 }
 
 #contact .contact-info a:hover {
-  color: #0e4b4e;
+  color: #494646;
 }
 
 #contact .contact-address,
@@ -1239,11 +1239,11 @@ section {
 
 #contact .php-email-form input::focus,
 #contact .php-email-form textarea::focus {
-  background-color: #0e4b4e;
+  background-color: #494646;
 }
 
 #contact .php-email-form button[type=submit] {
-  background: #0e4b4e;
+  background: #494646;
   border: 0;
   border-radius: 3px;
   padding: 10px 30px;
@@ -1253,7 +1253,7 @@ section {
 }
 
 #contact .php-email-form button[type=submit]:hover {
-  background: #2dc899;
+  background: #a9aeac;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1297,5 +1297,5 @@ section {
 }
 
 #footer .credits a {
-  color: #0c2e8a;
+  color: #7b7e87;
 }
