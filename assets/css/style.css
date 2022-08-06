@@ -1310,3 +1310,11 @@ section {
 #footer .credits a {
   color: #7b7e87;
 }
+
+.icon {
+  background: url('indiamart-og1.jpg');
+  height: 20px;
+  width: 20px;
+  display: block;
+  
+}
